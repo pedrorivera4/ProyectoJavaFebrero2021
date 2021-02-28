@@ -17,6 +17,7 @@ public class ProyectoJavaFebrero2021 {
     public static void main(String[] args) {
         // TODO code application logic here
     System.out.println("Hola Mercedes!");
+    System.out.println("Qué buen día hace para aprender control de versiones con GitHub!");
     }
     
     
